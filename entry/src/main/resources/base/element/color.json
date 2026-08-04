@@ -1,0 +1,76 @@
+{
+  "color": [
+    {
+      "name": "sport_bg",
+      "value": "#050505"
+    },
+    {
+      "name": "sport_surface",
+      "value": "#17181C"
+    },
+    {
+      "name": "sport_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "sport_accent",
+      "value": "#FF4D1C"
+    },
+    {
+      "name": "sport_pressed",
+      "value": "#FF7043"
+    },
+    {
+      "name": "sport_divider",
+      "value": "#FF4D1C"
+    },
+    {
+      "name": "casual_bg",
+      "value": "#EFEAE0"
+    },
+    {
+      "name": "casual_surface",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "casual_text",
+      "value": "#14181C"
+    },
+    {
+      "name": "casual_accent",
+      "value": "#008C7A"
+    },
+    {
+      "name": "casual_pressed",
+      "value": "#00B39A"
+    },
+    {
+      "name": "casual_divider",
+      "value": "#008C7A"
+    },
+    {
+      "name": "formal_bg",
+      "value": "#0B0E14"
+    },
+    {
+      "name": "formal_surface",
+      "value": "#161C28"
+    },
+    {
+      "name": "formal_text",
+      "value": "#F3F1E9"
+    },
+    {
+      "name": "formal_accent",
+      "value": "#D4AF37"
+    },
+    {
+      "name": "formal_pressed",
+      "value": "#E5C55A"
+    },
+    {
+      "name": "formal_divider",
+      "value": "#D4AF37"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "theme_sport",
+      "value": "Sport"
+    },
+    {
+      "name": "theme_casual",
+      "value": "Casual"
+    },
+    {
+      "name": "theme_formal",
+      "value": "Formal"
+    },
+    {
+      "name": "menu_showcase",
+      "value": "Open Showcase"
+    },
+    {
+      "name": "home_title",
+      "value": "Select Theme"
+    },
+    {
+      "name": "showcase_title",
+      "value": "Theme Showcase"
+    },
+    {
+      "name": "label_content",
+      "value": "Content Modifier"
+    },
+    {
+      "name": "label_draw",
+      "value": "Draw Modifier"
+    },
+    {
+      "name": "label_gesture",
+      "value": "Gesture Modifier"
+    },
+    {
+      "name": "gesture_hint",
+      "value": "Swipe to change theme"
+    }
+  ]
+}
