@@ -2,7 +2,7 @@
 
 # How to Build Modifier Toolkit
 
-A HarmonyOS NEXT application for smartwatches that demonstrates a live theme engine built entirely on ArkUI modifiers. Built with ArkTS and ArkUI, it lets users switch between Sport, Casual, and Formal watch themes and watch every component restyle itself in real time through Attribute, Content, Draw, Divider, Gesture, and Symbol Glyph modifiers all designed for the round watch screen.
+A HarmonyOS application for smartwatches that demonstrates a live theme engine built entirely on ArkUI modifiers. Built with ArkTS and ArkUI, it lets users switch between Sport, Casual, and Formal watch themes and watch every component restyle itself in real time through Attribute, Content, Draw, Divider, Gesture, and Symbol Glyph modifiers all designed for the round watch screen.
 
 # Preview
 
